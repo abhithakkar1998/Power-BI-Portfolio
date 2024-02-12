@@ -4,6 +4,6 @@ This repository is a curated collection of Power BI reports and datasets demonst
 **Please note:**
 
 * These reports are primarily for showcasing my understanding and learning of Power BI concepts. I do not claim ownership of the original content, which solely belongs to the respective authors/owners.
-* The authors/owners have been given credits in the respective folder. **Please read the Disclaimer files carefully.**
+* The authors/owners have been given credits in the respective folder. **Please read the Disclaimer carefully.**
 * Some modifications might have been made in the reports for learning purposes.
 * While these reports should function correctly, I cannot guarantee their completeness or compatibility with all data sources or scenarios.
